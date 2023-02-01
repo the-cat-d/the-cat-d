@@ -7,4 +7,4 @@ currently tryna learn java
 
 ## use this if you wanna contact me for some reason 
 
-discord: the_cat#0274
+discord: **the_cat#0274**
