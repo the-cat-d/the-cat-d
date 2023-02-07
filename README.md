@@ -1,7 +1,9 @@
-# what i do for a living
+## what i do for a living
 i code in python and lua
 
 i use vscode as my main ide
+
+got experience with making discord bots in discord.py
 
 currently tryna learn java
 
