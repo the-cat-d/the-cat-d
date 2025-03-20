@@ -1,11 +1,4 @@
-## what i do 
-i code in python, lua and c#
-
-i use vs and vscode as my main ide
-
-got experience with making discord bots in discord.py
-
-## use this if you wanna contact me for some reason 
+## contact
 
 discord: **the_realcat**
 
